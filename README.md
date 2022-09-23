@@ -1,2 +1,2 @@
-# TinFly
- Music Player for Blind
+# Music-Player-For-Blind
+Music Player for Blind using Python and libraries like Tensorflow , Speech Recognition
